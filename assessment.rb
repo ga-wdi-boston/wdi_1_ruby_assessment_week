@@ -147,6 +147,3 @@ jump()
 # Create a new Pug instance, store it as my_pug, and make it bark
 
 
-#### Question 1
-
-#### Question 1
